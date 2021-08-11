@@ -11,6 +11,8 @@
 2) Preparation_Car_Insurance: This file includes all the preparation steps for this dataset.
 3) EDA_Car_Insurance: This file includes applied steps for the Data Explanatory Analysis.
 4) Modeling_Car_Insurance: This file includes machine learning content of the project.
+
+# How to run the project?
 To run this project after downloading the dataset, the provided files should be run with the above order.
 
 # Dataset:
