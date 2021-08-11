@@ -1,10 +1,11 @@
 # Insurance_Claim_Prediction
+<p align="justify">
 - It is a supervised machine learning project based on Kaggle porto-seguro-safe-driver-prediction dataset which is made of 595212 records and 59 features. Dataset provider keeps the dataset confidential. Because of that there is no clear definition for features. In this dataset, each row represents a car insurance policy holder.
 
 - It is a classification machine learning project where the goal is predicting if a driver will file a claim or not.
-- This application includes data cleaning, data preparation, explanatory data analysis, and modeling. I have written different functions for repetitive tasks such as plotting. Then, for these tasks, I just call the related functions.
+- This application includes data cleaning, data preparation, explanatory data analysis, and modeling.
 - For machine learning purposes, XGBoost Classifier model is used. As data provider asked, "Gini Index" is used as the business metric. For hyperparameter tuning, low-level API of XGBoost is used.
-- Compare to the base model, our optimized model could improve the business metric for more than 36%.
+- Compare to the base model, our optimized model could improve the business metric for more than 36%.</p>
 
 # Files in this Repository:
 1) Utils_Car_Insurance: This file includes common functions for actions like data manipulation or data visualization. These functions will be called through other files.
