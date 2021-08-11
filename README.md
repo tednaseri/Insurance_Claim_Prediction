@@ -1,4 +1,4 @@
-# Insurance_Claim_Prediction
+# Prediction of Insurance Claim:
 <ul align="justify">
 <li>It is a supervised machine learning project based on Kaggle porto-seguro-safe-driver-prediction dataset which is made of 595212 records and 59 features. Dataset provider keeps the dataset confidential. Because of that there is no clear definition for features. In this dataset, each row represents a car insurance policy holder.</li>
 <li>It is a classification machine learning project where the goal is predicting if a driver will file a claim or not.</li>
