@@ -22,4 +22,4 @@ To run this project after downloading the dataset, the provided files should be 
 The dataset for this project can be download from this link: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data
 
 # More Details:
-More details is provided in my personal website at http://tednaseri.pythonanywhere.com/car_insurance
+More details is provided in my personal website at https://www.tednaseri.com/car_insurance
